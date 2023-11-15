@@ -3,11 +3,6 @@
  padding: 0px;
 }
 
-img {
-  width: 420px;
-  height: 286px;
-}
-
 .x{
   font-weight:bold;
   font-size: 48px;
@@ -81,7 +76,7 @@ p {
 }
 
 img {
-
+    height: 286px;
     width:100%;
 }
 
